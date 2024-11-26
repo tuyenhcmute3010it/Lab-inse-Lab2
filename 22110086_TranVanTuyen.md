@@ -1,4 +1,4 @@
-# Lab #1,22110086, TranVanTuyen, 241INSE330380E_02FIE
+# Lab #2,22110086, TranVanTuyen, 241INSE330380E_02FIE
 
 # Task 1: Public-key based authentication
 
